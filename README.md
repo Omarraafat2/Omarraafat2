@@ -1,3 +1,11 @@
+
+<div align="center" width="50">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+
+</div>
+
 <h1 align="center">Hi 👋, I'm Omar Raafat</h1>
 <h3 align="center">A Front-End Developer | Clean Architecture Enthusiast | Passionate about building user-focused, responsive web apps</h3>
 
@@ -5,11 +13,11 @@
 
 ### 🔎 About Me
 
-- 🎓 **B.Com in Management Information Systems** – Helwan University (Graduated 2022)  
+- 🎓 ** Bachelor's Degree in Commerce (Management Information Systems)– Helwan University (Graduated 2022)  
 - 🎖️ Completed Military Service  
 - 💻 Studied **Front-End Development** at **Route Academy**  
 - 🛠️ Currently working in **Customer Support** at *Your Parts*  
-- 🌍 Born and raised in **Saudi Arabia**, lived there for 18 years  
+- 🌍 Based in Egypt , born and raised in **Saudi Arabia**, lived there for 18 years  
 - 👨‍💻 Always learning, improving, and striving for better performance & cleaner code
 
 ---
