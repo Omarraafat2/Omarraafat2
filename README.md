@@ -1,6 +1,7 @@
 <div align="center" width="50">
-  <img src="https://raw.githubusercontent.com/OmarRaafat2/assets/main/omarraafat_welcome.gif" alt="Hi, I'm Omar Raafat" width="60%"/> <br>
+  <img src="https://raw.githubusercontent.com/OmarRaafat2/assets/main/file_0000000056cc620ab4b203fcb7d5fa62.png" alt="Hi, I'm Omar Raafat" width="60%"/> <br>
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Omar Raafat</h1>
 <h3 align="center">A Front-End Developer | Clean Architecture Enthusiast | Passionate about building user-focused, responsive web apps</h3>
