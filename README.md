@@ -3,7 +3,6 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Omar Raafat</h1>
 <h3 align="center">A Front-End Developer | Clean Architecture Enthusiast | Passionate about building user-focused, responsive web apps</h3>
 
 ---
