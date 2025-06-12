@@ -1,7 +1,5 @@
-
 <div align="center" width="50">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+  <img src="https://raw.githubusercontent.com/OmarRaafat2/assets/main/omarraafat_welcome.gif" alt="Hi, I'm Omar Raafat" width="60%"/> <br>
 </div>
 
 <h1 align="center">Hi 👋, I'm Omar Raafat</h1>
