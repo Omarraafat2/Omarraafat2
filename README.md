@@ -12,7 +12,6 @@
 - 🎓 ** Bachelor's Degree in Commerce (Management Information Systems)– Helwan University (Graduated 2022)  
 - 🎖️ Completed Military Service  
 - 💻 Studied **Front-End Development** at **Route Academy**  
-- 🛠️ Currently working in **Customer Support** at *Your Parts*  
 - 🌍 Based in Egypt , born and raised in **Saudi Arabia**, lived there for 18 years  
 - 👨‍💻 Always learning, improving, and striving for better performance & cleaner code
 
